@@ -1,3 +1,4 @@
+Added new component, Button.js, Button.styled.js
 ![image](https://github.com/user-attachments/assets/bf9fd9dc-e6cf-4165-abdc-dcb1d53f19f0)
 
 
