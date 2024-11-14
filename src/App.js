@@ -5,7 +5,9 @@ import Paragraph from './components/Paragraph/Paragraph';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <Paragraph></Paragraph>
+
+      {/* <header className="App-header">
         
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -18,9 +20,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
-        <Paragraph></Paragraph>
-      </header>
+        </a>        
+      </header> */}
     </div>
   );
 }

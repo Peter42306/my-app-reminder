@@ -1,8 +1,12 @@
 import styled from 'styled-components';
 
 export const ParagraphWrapper = styled.div`
-font-size:10px;
+margin: 10px;
+border: 5px solid red;
+color: blue;
+
+/* font-size:10px;
 color:blue;
 padding:10px;
-text-align:center;
+text-align:center; */
 `;
