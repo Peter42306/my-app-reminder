@@ -1,8 +1,18 @@
-.App {
-  text-align: center;
+.App {  
+  display: flex;
+  text-align: center;    
+  margin: 10px;
+  padding: 10px;
+  gap: 5px;
 }
 
-.App-logo {
+@media(max-width:768px){
+  .App {
+    flex-direction: column;     
+  }  
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
