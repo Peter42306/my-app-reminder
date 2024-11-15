@@ -1,3 +1,6 @@
+Users blocks
+![image](https://github.com/user-attachments/assets/5819a41e-1686-4add-84e1-28b686532f91)
+
 Added new component, Button.js, Button.styled.js
 ![image](https://github.com/user-attachments/assets/bf9fd9dc-e6cf-4165-abdc-dcb1d53f19f0)
 
