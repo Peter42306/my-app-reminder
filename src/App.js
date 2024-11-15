@@ -1,11 +1,22 @@
 import logo from './logo.svg';
 import './App.css';
 import Paragraph from './components/Paragraph/Paragraph';
+import Profile from './components/Profile/Profile';
+import { user1, user2, user3 } from './data/usersData';
 
-function App() {
+
+function App() {  
+
   return (
-    <div className="App">
-      <Paragraph></Paragraph>
+    <div className="App">      
+      
+      <Profile user={user1}></Profile>
+      <Profile user={user2}></Profile>
+      <Profile user={user3}></Profile>
+
+      {/* <Profile user={user1}></Profile> */}
+
+      {/* <Paragraph></Paragraph> */}
 
       {/* <header className="App-header">
         
