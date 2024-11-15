@@ -1,3 +1,6 @@
+Users inline
+![image](https://github.com/user-attachments/assets/dea686b6-697b-4dca-a84a-0450e648362e)
+
 Users blocks
 
 ![image](https://github.com/user-attachments/assets/5819a41e-1686-4add-84e1-28b686532f91)
