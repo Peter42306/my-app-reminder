@@ -1,6 +1,6 @@
 .App {  
   display: flex;
-  text-align: center;    
+  flex-wrap: wrap;  
   margin: 10px;
   padding: 10px;
   gap: 5px;

@@ -5,6 +5,7 @@ import Profile from './components/Profile/Profile';
 import { user1, user2, user3 } from './data/usersData';
 import MobilePhones from './components/MobilePhones/MobilePhones';
 import { mobilePhone1, mobilePhone2, mobilePhone3, mobilePhone4, mobilePhone5 } from './data/mobilePhonesData';
+import { ShoppingList } from './components/VegsFruits/VegsFruits';
 
 
 function App() {  
@@ -15,11 +16,14 @@ function App() {
       {/* <Profile user={user1}></Profile> */}
       {/* <Profile user={user2}></Profile> */}
       {/* <Profile user={user3}></Profile> */}
-      <MobilePhones mobilePhone={mobilePhone1}></MobilePhones>
+
+      {/* <MobilePhones mobilePhone={mobilePhone1}></MobilePhones>
       <MobilePhones mobilePhone={mobilePhone2}></MobilePhones>
       <MobilePhones mobilePhone={mobilePhone3}></MobilePhones>
       <MobilePhones mobilePhone={mobilePhone4}></MobilePhones>
-      <MobilePhones mobilePhone={mobilePhone5}></MobilePhones>
+      <MobilePhones mobilePhone={mobilePhone5}></MobilePhones> */}
+
+      <ShoppingList></ShoppingList>
       
       
       
