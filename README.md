@@ -1,3 +1,6 @@
+Vegs & Fruits, by map, selection
+![image](https://github.com/user-attachments/assets/92ccc1db-11e7-4c47-8951-1be3ae748a60)
+
 Phones
 ![image](https://github.com/user-attachments/assets/fcd338a4-0f69-4c3d-8e0d-ca9e8db9d3f1)
 
