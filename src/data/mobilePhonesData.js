@@ -6,7 +6,7 @@ import samsungGalaxyA05Image from '../images/samsung galaxy a05 Screenshot 2024-
 
 export const mobilePhone1 = {
     model:'Samsung Galaxy A35 5G 8/256GB Lilac',
-    imageUrl: samsungGalaxyA35Image,
+    
     imageW: 200,
     rating: 4.6,
     priceActual: 13899,
